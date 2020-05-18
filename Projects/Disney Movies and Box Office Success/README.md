@@ -6,5 +6,5 @@
 <p>The dataset used in this project is a modified version of the Disney Character Success dataset from <a href="https://data.world/kgarrett/disney-character-success-00-16">Kelly Garrett</a>.</p>
 
 
-Project Webpage = <a href="https://learn.datacamp.com/projects/740"> Disney Movies and Box Office Success </a>
+Project Webpage: <a href="https://learn.datacamp.com/projects/740"> Disney Movies and Box Office Success </a>
 
